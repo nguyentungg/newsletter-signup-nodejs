@@ -1,5 +1,5 @@
 # newsletter-signup-nodejs
-A NodeJS project for Your audience to subscribe new letters from you. 
+A NodeJS project that help my audience to subscribe to get new letters. 
 
 ## How To Use
 ![image](https://user-images.githubusercontent.com/16759685/137022961-7b1d5f0b-6128-4cb7-9fa2-a7568d171302.png)
